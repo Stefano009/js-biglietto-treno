@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: black;
+    width: 100%;
+    height: 100vh !important;
+}
+.ms_bg_color {
+    background-color: blanchedalmond;
+}
+.ms_m_500 {
+    margin-top: 25%;
+}
+.top_bot_bg {
+    background-color: orange;
+}
+.ticket_bg {
+    background-color: #FEFF99;
+}
+.price_line_height {
+    line-height: 50px;
+}
