@@ -22,3 +22,5 @@ if (passengerAge<18) {
 console.log(discount.toFixed(2))
 var ticketPrice = discount * 0.21 * kmToGo;
 console.log(ticketPrice.toFixed(2))
+
+document.getElementById("ticket").innerHTML= "il prezzo del tuo biglietto è" + " " + ticketPrice;
